@@ -1,0 +1,1064 @@
+g
+
+{
+    "Electronics":{
+        "Mobile":{
+            "Brand":{
+              "samsung_mobiles": [
+                {
+                  "model": "Samsung Galaxy S21",
+                  "release_date": "2021-01-29",
+                  "display_size_inches": 6.2,
+                  "storage_capacity_gb": 128,
+                  "camera_resolution_mpx": 12,
+                  "battery_capacity_mah": 4000,
+                  "operating_system": "Android 11",
+                  "price_usd": 799.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.4,
+                    "silver_g": 1.5,
+                    "platinum_g": 0.08,
+                    "palladium_g": 0.04
+                  }
+                },
+                {
+                  "model": "Samsung Galaxy Note 20",
+                  "release_date": "2020-08-21",
+                  "display_size_inches": 6.7,
+                  "storage_capacity_gb": 256,
+                  "camera_resolution_mpx": 12,
+                  "battery_capacity_mah": 4300,
+                  "operating_system": "Android 10",
+                  "price_usd": 999.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.5,
+                    "silver_g": 1.8,
+                    "platinum_g": 0.1,
+                    "palladium_g": 0.05
+                  }
+                },
+                {
+                  "model": "Samsung Galaxy S22",
+                  "release_date": "2022-02-11",
+                  "display_size_inches": 6.4,
+                  "storage_capacity_gb": 256,
+                  "camera_resolution_mpx": 16,
+                  "battery_capacity_mah": 4200,
+                  "operating_system": "Android 12",
+                  "price_usd": 899.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.45,
+                    "silver_g": 1.7,
+                    "platinum_g": 0.09,
+                    "palladium_g": 0.045
+                  }
+                },
+                {
+                  "model": "Samsung Galaxy A52",
+                  "release_date": "2021-03-26",
+                  "display_size_inches": 6.5,
+                  "storage_capacity_gb": 128,
+                  "camera_resolution_mpx": 64,
+                  "battery_capacity_mah": 4500,
+                  "operating_system": "Android 11",
+                  "price_usd": 499.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.35,
+                    "silver_g": 1.2,
+                    "platinum_g": 0.07,
+                    "palladium_g": 0.035
+                  }
+                },
+                {
+                  "model": "Samsung Galaxy Z Flip 3",
+                  "release_date": "2021-08-11",
+                  "display_size_inches": 6.7,
+                  "storage_capacity_gb": 256,
+                  "camera_resolution_mpx": 12,
+                  "battery_capacity_mah": 3300,
+                  "operating_system": "Android 11",
+                  "price_usd": 999.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.42,
+                    "silver_g": 1.6,
+                    "platinum_g": 0.085,
+                    "palladium_g": 0.043
+                  }
+                },
+                {
+                  "model": "Samsung Galaxy S22 Ultra",
+                  "release_date": "2022-02-11",
+                  "display_size_inches": 6.9,
+                  "storage_capacity_gb": 512,
+                  "camera_resolution_mpx": 108,
+                  "battery_capacity_mah": 5000,
+                  "operating_system": "Android 12",
+                  "price_usd": 1199.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.48,
+                    "silver_g": 1.9,
+                    "platinum_g": 0.1,
+                    "palladium_g": 0.05
+                  }
+                },
+                {
+                  "model": "Samsung Galaxy A72",
+                  "release_date": "2021-03-26",
+                  "display_size_inches": 6.7,
+                  "storage_capacity_gb": 256,
+                  "camera_resolution_mpx": 64,
+                  "battery_capacity_mah": 5000,
+                  "operating_system": "Android 11",
+                  "price_usd": 599.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.38,
+                    "silver_g": 1.4,
+                    "platinum_g": 0.075,
+                    "palladium_g": 0.04
+                  }
+                },
+                {
+                  "model": "Samsung Galaxy Z Fold 3",
+                  "release_date": "2021-08-11",
+                  "display_size_inches": 7.6,
+                  "storage_capacity_gb": 512,
+                  "camera_resolution_mpx": 12,
+                  "battery_capacity_mah": 4400,
+                  "operating_system": "Android 11",
+                  "price_usd": 1799.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.5,
+                    "silver_g": 1.8,
+                    "platinum_g": 0.09,
+                    "palladium_g": 0.045
+                  }
+                },
+                {
+                  "model": "Samsung Galaxy S21 FE",
+                  "release_date": "2021-09-03",
+                  "display_size_inches": 6.4,
+                  "storage_capacity_gb": 128,
+                  "camera_resolution_mpx": 32,
+                  "battery_capacity_mah": 4500,
+                  "operating_system": "Android 12",
+                  "price_usd": 699.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.42,
+                    "silver_g": 1.7,
+                    "platinum_g": 0.085,
+                    "palladium_g": 0.043
+                  }
+                },
+                {
+                  "model": "Samsung Galaxy A32",
+                  "release_date": "2021-02-25",
+                  "display_size_inches": 6.4,
+                  "storage_capacity_gb": 64,
+                  "camera_resolution_mpx": 48,
+                  "battery_capacity_mah": 5000,
+                  "operating_system": "Android 11",
+                  "price_usd": 299.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.3,
+                    "silver_g": 1.0,
+                    "platinum_g": 0.05,
+                    "palladium_g": 0.025
+                  }
+                },
+                {
+                  "model": "Samsung Galaxy A12",
+                  "release_date": "2020-11-24",
+                  "display_size_inches": 6.5,
+                  "storage_capacity_gb": 32,
+                  "camera_resolution_mpx": 13,
+                  "battery_capacity_mah": 5000,
+                  "operating_system": "Android 10",
+                  "price_usd": 179.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.28,
+                    "silver_g": 1.0,
+                    "platinum_g": 0.05,
+                    "palladium_g": 0.025
+                  }
+                },
+                {
+                  "model": "Samsung Galaxy S20",
+                  "release_date": "2020-03-06",
+                  "display_size_inches": 6.2,
+                  "storage_capacity_gb": 128,
+                  "camera_resolution_mpx": 12,
+                  "battery_capacity_mah": 4000,
+                  "operating_system": "Android 10",
+                  "price_usd": 899.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.4,
+                    "silver_g": 1.5,
+                    "platinum_g": 0.08,
+                    "palladium_g": 0.04
+                  }
+                },
+                {
+                  "model": "Samsung Galaxy S10",
+                  "release_date": "2019-03-08",
+                  "display_size_inches": 6.1,
+                  "storage_capacity_gb": 128,
+                  "camera_resolution_mpx": 12,
+                  "battery_capacity_mah": 3400,
+                  "operating_system": "Android 9",
+                  "price_usd": 699.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.35,
+                    "silver_g": 1.2,
+                    "platinum_g": 0.07,
+                    "palladium_g": 0.035
+                  }
+                }
+              ],
+
+              "vivo_mobiles": [
+                {
+                  "model": "Vivo V21",
+                  "release_date": "2021-05-01",
+                  "display_size_inches": 6.44,
+                  "storage_capacity_gb": 128,
+                  "camera_resolution_mpx": 44,
+                  "battery_capacity_mah": 4000,
+                  "operating_system": "Funtouch OS 11.1 (Android 11)",
+                  "price_usd": 399.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.3,
+                    "silver_g": 1.0,
+                    "platinum_g": 0.06,
+                    "palladium_g": 0.03
+                  }
+                },
+                {
+                  "model": "Vivo X60",
+                  "release_date": "2021-12-15",
+                  "display_size_inches": 6.56,
+                  "storage_capacity_gb": 256,
+                  "camera_resolution_mpx": 48,
+                  "battery_capacity_mah": 4300,
+                  "operating_system": "Funtouch OS 11.1 (Android 11)",
+                  "price_usd": 599.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.35,
+                    "silver_g": 1.2,
+                    "platinum_g": 0.07,
+                    "palladium_g": 0.035
+                  }
+                },
+                {
+                  "model": "Vivo Y73",
+                  "release_date": "2021-06-10",
+                  "display_size_inches": 6.44,
+                  "storage_capacity_gb": 128,
+                  "camera_resolution_mpx": 64,
+                  "battery_capacity_mah": 4010,
+                  "operating_system": "Funtouch OS 11 (Android 11)",
+                  "price_usd": 249.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.25,
+                    "silver_g": 0.9,
+                    "platinum_g": 0.05,
+                    "palladium_g": 0.025
+                  }
+                },
+                {
+                  "model": "Vivo V17",
+                  "release_date": "2019-11-01",
+                  "display_size_inches": 6.44,
+                  "storage_capacity_gb": 128,
+                  "camera_resolution_mpx": 48,
+                  "battery_capacity_mah": 4500,
+                  "operating_system": "Funtouch OS 9.2 (Android 9)",
+                  "price_usd": 349.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.3,
+                    "silver_g": 1.0,
+                    "platinum_g": 0.06,
+                    "palladium_g": 0.03
+                  }
+                },
+                {
+                  "model": "Vivo S1",
+                  "release_date": "2019-07-01",
+                  "display_size_inches": 6.38,
+                  "storage_capacity_gb": 128,
+                  "camera_resolution_mpx": 16,
+                  "battery_capacity_mah": 4500,
+                  "operating_system": "Funtouch OS 9 (Android 9)",
+                  "price_usd": 299.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.25,
+                    "silver_g": 0.9,
+                    "platinum_g": 0.05,
+                    "palladium_g": 0.025
+                  }
+                },
+                {
+                  "model": "Vivo V20",
+                  "release_date": "2020-10-12",
+                  "display_size_inches": 6.44,
+                  "storage_capacity_gb": 256,
+                  "camera_resolution_mpx": 64,
+                  "battery_capacity_mah": 4000,
+                  "operating_system": "Funtouch OS 11 (Android 10)",
+                  "price_usd": 399.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.3,
+                    "silver_g": 1.0,
+                    "platinum_g": 0.06,
+                    "palladium_g": 0.03
+                  }
+                },
+                {
+                  "model": "Vivo V23",
+                  "release_date": "2022-05-20",
+                  "display_size_inches": 6.51,
+                  "storage_capacity_gb": 128,
+                  "camera_resolution_mpx": 50,
+                  "battery_capacity_mah": 4200,
+                  "operating_system": "Funtouch OS 12 (Android 12)",
+                  "price_usd": 449.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.32,
+                    "silver_g": 1.1,
+                    "platinum_g": 0.065,
+                    "palladium_g": 0.0325
+                  }
+                },
+                {
+                  "model": "Vivo Y21",
+                  "release_date": "2021-08-30",
+                  "display_size_inches": 6.51,
+                  "storage_capacity_gb": 64,
+                  "camera_resolution_mpx": 13,
+                  "battery_capacity_mah": 5000,
+                  "operating_system": "Funtouch OS 11.1 (Android 11)",
+                  "price_usd": 219.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.2,
+                    "silver_g": 0.8,
+                    "platinum_g": 0.04,
+                    "palladium_g": 0.02
+                  }
+                }
+              ],
+              "oppo_mobiles": [
+                {
+                  "model": "Oppo Reno6 Pro",
+                  "release_date": "2021-05-27",
+                  "display_size_inches": 6.55,
+                  "storage_capacity_gb": 128,
+                  "camera_resolution_mpx": 64,
+                  "battery_capacity_mah": 4500,
+                  "operating_system": "ColorOS 11.3 (Android 11)",
+                  "price_usd": 499.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.35,
+                    "silver_g": 1.2,
+                    "platinum_g": 0.07,
+                    "palladium_g": 0.035
+                  }
+                },
+                {
+                  "model": "Oppo F19 Pro",
+                  "release_date": "2021-03-08",
+                  "display_size_inches": 6.43,
+                  "storage_capacity_gb": 128,
+                  "camera_resolution_mpx": 48,
+                  "battery_capacity_mah": 4310,
+                  "operating_system": "ColorOS 11.1 (Android 11)",
+                  "price_usd": 349.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.3,
+                    "silver_g": 1.0,
+                    "platinum_g": 0.06,
+                    "palladium_g": 0.03
+                  }
+                },
+                {
+                  "model": "Oppo A74",
+                  "release_date": "2021-04-13",
+                  "display_size_inches": 6.43,
+                  "storage_capacity_gb": 128,
+                  "camera_resolution_mpx": 48,
+                  "battery_capacity_mah": 5000,
+                  "operating_system": "ColorOS 11.1 (Android 11)",
+                  "price_usd": 249.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.25,
+                    "silver_g": 0.9,
+                    "platinum_g": 0.05,
+                    "palladium_g": 0.025
+                  }
+                },
+                {
+                  "model": "Oppo Find X3 Pro",
+                  "release_date": "2021-03-11",
+                  "display_size_inches": 6.7,
+                  "storage_capacity_gb": 256,
+                  "camera_resolution_mpx": 50,
+                  "battery_capacity_mah": 4500,
+                  "operating_system": "ColorOS 11.2 (Android 11)",
+                  "price_usd": 799.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.4,
+                    "silver_g": 1.5,
+                    "platinum_g": 0.08,
+                    "palladium_g": 0.04
+                  }
+                },
+                {
+                  "model": "Oppo A54",
+                  "release_date": "2021-04-19",
+                  "display_size_inches": 6.51,
+                  "storage_capacity_gb": 64,
+                  "camera_resolution_mpx": 13,
+                  "battery_capacity_mah": 5000,
+                  "operating_system": "ColorOS 7.2 (Android 10)",
+                  "price_usd": 199.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.2,
+                    "silver_g": 0.8,
+                    "platinum_g": 0.04,
+                    "palladium_g": 0.02
+                  }
+                },
+                {
+                  "model": "Oppo A95",
+                  "release_date": "2022-02-15",
+                  "display_size_inches": 6.43,
+                  "storage_capacity_gb": 128,
+                  "camera_resolution_mpx": 64,
+                  "battery_capacity_mah": 4500,
+                  "operating_system": "ColorOS 12 (Android 12)",
+                  "price_usd": 549.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.33,
+                    "silver_g": 1.1,
+                    "platinum_g": 0.065,
+                    "palladium_g": 0.0325
+                  }
+                },
+                {
+                  "model": "Oppo Reno7",
+                  "release_date": "2022-05-10",
+                  "display_size_inches": 6.55,
+                  "storage_capacity_gb": 256,
+                  "camera_resolution_mpx": 50,
+                  "battery_capacity_mah": 4500,
+                  "operating_system": "ColorOS 12 (Android 12)",
+                  "price_usd": 599.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.35,
+                    "silver_g": 1.2,
+                    "platinum_g": 0.07,
+                    "palladium_g": 0.035
+                  }
+                },
+                {
+                  "model": "Oppo A33",
+                  "release_date": "2020-09-28",
+                  "display_size_inches": 6.5,
+                  "storage_capacity_gb": 64,
+                  "camera_resolution_mpx": 13,
+                  "battery_capacity_mah": 5000,
+                  "operating_system": "ColorOS 7.2 (Android 10)",
+                  "price_usd": 179.99,
+                  "precious_metals_recovered": {
+                    "gold_g": 0.18,
+                    "silver_g": 0.7,
+                    "platinum_g": 0.035,
+                    "palladium_g": 0.018
+                  }
+                }
+              ],
+                "realme_mobiles": [
+                    {
+                    "model": "Realme 8 Pro",
+                    "release_date": "2021-03-24",
+                    "display_size_inches": 6.4,
+                    "storage_capacity_gb": 128,
+                    "camera_resolution_mpx": 108,
+                    "battery_capacity_mah": 4500,
+                    "operating_system": "Realme UI 2.0 (Android 11)",
+                    "price_usd": 279.99,
+                    "precious_metals_recovered": {
+                        "gold_g": 0.3,
+                        "silver_g": 1.0,
+                        "platinum_g": 0.06,
+                        "palladium_g": 0.03
+                    }
+                    },
+                    {
+                    "model": "Realme Narzo 30",
+                    "release_date": "2021-05-18",
+                    "display_size_inches": 6.5,
+                    "storage_capacity_gb": 128,
+                    "camera_resolution_mpx": 48,
+                    "battery_capacity_mah": 5000,
+                    "operating_system": "Realme UI 2.0 (Android 10)",
+                    "price_usd": 199.99,
+                    "precious_metals_recovered": {
+                        "gold_g": 0.2,
+                        "silver_g": 0.8,
+                        "platinum_g": 0.04,
+                        "palladium_g": 0.02
+                    }
+                    },
+                    {
+                    "model": "Realme X7 Max",
+                    "release_date": "2021-05-31",
+                    "display_size_inches": 6.43,
+                    "storage_capacity_gb": 128,
+                    "camera_resolution_mpx": 64,
+                    "battery_capacity_mah": 4500,
+                    "operating_system": "Realme UI 2.0 (Android 11)",
+                    "price_usd": 349.99,
+                    "precious_metals_recovered": {
+                        "gold_g": 0.25,
+                        "silver_g": 0.9,
+                        "platinum_g": 0.05,
+                        "palladium_g": 0.025
+                    }
+                    },
+                    {
+                    "model": "Realme 9 Pro",
+                    "release_date": "2022-01-20",
+                    "display_size_inches": 6.6,
+                    "storage_capacity_gb": 256,
+                    "camera_resolution_mpx": 108,
+                    "battery_capacity_mah": 5000,
+                    "operating_system": "Realme UI 3.0 (Android 12)",
+                    "price_usd": 399.99,
+                    "precious_metals_recovered": {
+                        "gold_g": 0.35,
+                        "silver_g": 1.2,
+                        "platinum_g": 0.07,
+                        "palladium_g": 0.035
+                    }
+                    },
+                    {
+                    "model": "Realme GT Master Edition",
+                    "release_date": "2021-08-18",
+                    "display_size_inches": 6.43,
+                    "storage_capacity_gb": 128,
+                    "camera_resolution_mpx": 64,
+                    "battery_capacity_mah": 4300,
+                    "operating_system": "Realme UI 2.0 (Android 11)",
+                    "price_usd": 299.99,
+                    "precious_metals_recovered": {
+                        "gold_g": 0.3,
+                        "silver_g": 1.0,
+                        "platinum_g": 0.06,
+                        "palladium_g": 0.03
+                    }
+                    },
+                    {
+                    "model": "Realme C25",
+                    "release_date": "2021-04-08",
+                    "display_size_inches": 6.5,
+                    "storage_capacity_gb": 64,
+                    "camera_resolution_mpx": 13,
+                    "battery_capacity_mah": 6000,
+                    "operating_system": "Realme UI 2.0 (Android 11)",
+                    "price_usd": 149.99,
+                    "precious_metals_recovered": {
+                        "gold_g": 0.15,
+                        "silver_g": 0.6,
+                        "platinum_g": 0.03,
+                        "palladium_g": 0.015
+                     }
+                    }
+                ],
+                "apple_mobiles": [
+                    {
+                    "model": "iPhone 13 Pro",
+                    "release_date": "2021-09-24",
+                    "display_size_inches": 6.1,
+                    "storage_capacity_gb": 128,
+                    "camera_resolution_mpx": 12,
+                    "battery_capacity_mah": 3095,
+                    "operating_system": "iOS 15",
+                    "price_usd": 999.99,
+                    "precious_metals_recovered": {
+                        "gold_g": 0.35,
+                        "silver_g": 1.2,
+                        "platinum_g": 0.07,
+                        "palladium_g": 0.035
+                        }
+                    },
+                    {
+                    "model": "iPhone SE (2nd Gen)",
+                    "release_date": "2020-04-24",
+                    "display_size_inches": 4.7,
+                    "storage_capacity_gb": 64,
+                    "camera_resolution_mpx": 12,
+                    "battery_capacity_mah": 1821,
+                    "operating_system": "iOS 14",
+                    "price_usd": 399.99,
+                    "precious_metals_recovered": {
+                        "gold_g": 0.2,
+                        "silver_g": 0.8,
+                        "platinum_g": 0.04,
+                        "palladium_g": 0.02
+                       }
+                    },
+                    {
+                    "model": "iPhone 13 Mini",
+                    "release_date": "2021-09-24",
+                    "display_size_inches": 5.4,
+                    "storage_capacity_gb": 128,
+                    "camera_resolution_mpx": 12,
+                    "battery_capacity_mah": 2438,
+                    "operating_system": "iOS 15",
+                    "price_usd": 699.99,
+                    "precious_metals_recovered": {
+                        "gold_g": 0.25,
+                        "silver_g": 0.9,
+                        "platinum_g": 0.05,
+                        "palladium_g": 0.025
+                       }
+                    },
+                    {
+                    "model": "iPhone 12 Pro Max",
+                    "release_date": "2020-11-13",
+                    "display_size_inches": 6.7,
+                    "storage_capacity_gb": 256,
+                    "camera_resolution_mpx": 12,
+                    "battery_capacity_mah": 3687,
+                    "operating_system": "iOS 14",
+                    "price_usd": 1099.99,
+                    "precious_metals_recovered": {
+                        "gold_g": 0.4,
+                        "silver_g": 1.5,
+                        "platinum_g": 0.08,
+                        "palladium_g": 0.04
+                    }
+                    },
+                    {
+                    "model": "iPhone 11",
+                    "release_date": "2019-09-20",
+                    "display_size_inches": 6.1,
+                    "storage_capacity_gb": 128,
+                    "camera_resolution_mpx": 12,
+                    "battery_capacity_mah": 3110,
+                    "operating_system": "iOS 13",
+                    "price_usd": 699.99,
+                    "precious_metals_recovered": {
+                        "gold_g": 0.35,
+                        "silver_g": 1.2,
+                        "platinum_g": 0.07,
+                        "palladium_g": 0.035
+                    }
+                    }
+                ],
+                "oneplus_mobiles": [
+                    {
+                    "model": "OnePlus 9 Pro",
+                    "release_date": "2021-03-23",
+                    "display_size_inches": 6.7,
+                    "storage_capacity_gb": 128,
+                    "camera_resolution_mpx": 48,
+                    "battery_capacity_mah": 4500,
+                    "operating_system": "OxygenOS 11 (Android 11)",
+                    "price_usd": 899.99,
+                    "precious_metals_recovered": {
+                        "gold_g": 0.35,
+                        "silver_g": 1.2,
+                        "platinum_g": 0.07,
+                        "palladium_g": 0.035
+                    }
+                    },
+                    {
+                    "model": "OnePlus 8T",
+                    "release_date": "2020-10-14",
+                    "display_size_inches": 6.55,
+                    "storage_capacity_gb": 128,
+                    "camera_resolution_mpx": 48,
+                    "battery_capacity_mah": 4500,
+                    "operating_system": "OxygenOS 11 (Android 11)",
+                    "price_usd": 749.99,
+                    "precious_metals_recovered": {
+                        "gold_g": 0.3,
+                        "silver_g": 1.0,
+                        "platinum_g": 0.06,
+                        "palladium_g": 0.03
+                    }
+                    },
+                    {
+                    "model": "OnePlus 7 Pro",
+                    "release_date": "2019-05-14",
+                    "display_size_inches": 6.67,
+                    "storage_capacity_gb": 256,
+                    "camera_resolution_mpx": 48,
+                    "battery_capacity_mah": 4000,
+                    "operating_system": "OxygenOS 9 (Android 9)",
+                    "price_usd": 699.99,
+                    "precious_metals_recovered": {
+                        "gold_g": 0.25,
+                        "silver_g": 0.9,
+                        "platinum_g": 0.05,
+                        "palladium_g": 0.025
+                    }
+                    },
+                    {
+                    "model": "OnePlus Nord",
+                    "release_date": "2020-07-21",
+                    "display_size_inches": 6.44,
+                    "storage_capacity_gb": 128,
+                    "camera_resolution_mpx": 48,
+                    "battery_capacity_mah": 4115,
+                    "operating_system": "OxygenOS 10 (Android 10)",
+                    "price_usd": 399.99,
+                    "precious_metals_recovered": {
+                        "gold_g": 0.3,
+                        "silver_g": 1.0,
+                        "platinum_g": 0.06,
+                        "palladium_g": 0.03
+                    }
+                    },
+                    {
+                    "model": "OnePlus 6T",
+                    "release_date": "2018-11-06",
+                    "display_size_inches": 6.41,
+                    "storage_capacity_gb": 128,
+                    "camera_resolution_mpx": 16,
+                    "battery_capacity_mah": 3700,
+                    "operating_system": "OxygenOS 9 (Android 9)",
+                    "price_usd": 549.99,
+                    "precious_metals_recovered": {
+                        "gold_g": 0.2,
+                        "silver_g": 0.8,
+                        "platinum_g": 0.04,
+                        "palladium_g": 0.02
+                    }
+                    }
+                ],
+                "redmi_mobiles": [
+                    {
+                    "model": "Redmi Note 10 Pro",
+                    "release_date": "2021-03-04",
+                    "display_size_inches": 6.67,
+                    "storage_capacity_gb": 128,
+                    "camera_resolution_mpx": 108,
+                    "battery_capacity_mah": 5020,
+                    "operating_system": "MIUI 12 (Android 11)",
+                    "price_usd": 249.99,
+                    "precious_metals_recovered": {
+                        "gold_g": 0.25,
+                        "silver_g": 0.9,
+                        "platinum_g": 0.05,
+                        "palladium_g": 0.025
+                    }
+                    },
+                    {
+                    "model": "Redmi 9",
+                    "release_date": "2020-06-10",
+                    "display_size_inches": 6.53,
+                    "storage_capacity_gb": 64,
+                    "camera_resolution_mpx": 13,
+                    "battery_capacity_mah": 5020,
+                    "operating_system": "MIUI 12 (Android 10)",
+                    "price_usd": 149.99,
+                    "precious_metals_recovered": {
+                        "gold_g": 0.2,
+                        "silver_g": 0.8,
+                        "platinum_g": 0.04,
+                        "palladium_g": 0.02
+                    }
+                    },
+                    {
+                    "model": "Redmi K40",
+                    "release_date": "2021-02-25",
+                    "display_size_inches": 6.67,
+                    "storage_capacity_gb": 128,
+                    "camera_resolution_mpx": 48,
+                    "battery_capacity_mah": 4520,
+                    "operating_system": "MIUI 12.5 (Android 11)",
+                    "price_usd": 299.99,
+                    "precious_metals_recovered": {
+                        "gold_g": 0.3,
+                        "silver_g": 1.0,
+                        "platinum_g": 0.06,
+                        "palladium_g": 0.03
+                    }
+                    },
+                    {
+                    "model": "Redmi Note 9",
+                    "release_date": "2020-04-30",
+                    "display_size_inches": 6.53,
+                    "storage_capacity_gb": 128,
+                    "camera_resolution_mpx": 48,
+                    "battery_capacity_mah": 5020,
+                    "operating_system": "MIUI 11 (Android 10)",
+                    "price_usd": 199.99,
+                    "precious_metals_recovered": {
+                        "gold_g": 0.25,
+                        "silver_g": 0.9,
+                        "platinum_g": 0.05,
+                        "palladium_g": 0.025
+                    }
+                    },
+                    {
+                    "model": "Redmi 10 Prime",
+                    "release_date": "2021-08-20",
+                    "display_size_inches": 6.5,
+                    "storage_capacity_gb": 64,
+                    "camera_resolution_mpx": 50,
+                    "battery_capacity_mah": 6000,
+                    "operating_system": "MIUI 12.5 (Android 11)",
+                    "price_usd": 179.99,
+                    "precious_metals_recovered": {
+                        "gold_g": 0.18,
+                        "silver_g": 0.7,
+                        "platinum_g": 0.035,
+                        "palladium_g": 0.018
+                    }
+                    }
+
+                ]
+
+            }
+        },
+        "Laptops":{
+          "Brand": {
+            "hp_laptops": [
+              {
+                "model": "HP Spectre x360",
+                "release_date": "2021-03-15",
+                "display_size_inches": 13.3,
+                "storage_capacity_gb": 512,
+                "ram_gb": 16,
+                "processor": "Intel Core i7-1165G7",
+                "price_usd": 1399.99,
+                "precious_metals_recovered": {
+                  "gold_g": 0.2,
+                  "silver_g": 0.8,
+                  "platinum_g": 0.04,
+                  "palladium_g": 0.02
+                }
+              },
+              {
+                "model": "HP Envy x360",
+                "release_date": "2021-05-20",
+                "display_size_inches": 15.6,
+                "storage_capacity_gb": 256,
+                "ram_gb": 8,
+                "processor": "AMD Ryzen 5 4500U",
+                "price_usd": 999.99,
+                "precious_metals_recovered": {
+                  "gold_g": 0.15,
+                  "silver_g": 0.6,
+                  "platinum_g": 0.03,
+                  "palladium_g": 0.015
+                }
+              },
+              {
+                "model": "HP Omen 15",
+                "release_date": "2021-07-10",
+                "display_size_inches": 15.6,
+                "storage_capacity_gb": 512,
+                "ram_gb": 16,
+                "processor": "Intel Core i9-11900H",
+                "price_usd": 1799.99,
+                "precious_metals_recovered": {
+                  "gold_g": 0.25,
+                  "silver_g": 0.9,
+                  "platinum_g": 0.05,
+                  "palladium_g": 0.025
+                }
+              },
+              {
+                "model": "HP Pavilion",
+                "release_date": "2021-02-01",
+                "display_size_inches": 14.0,
+                "storage_capacity_gb": 256,
+                "ram_gb": 12,
+                "processor": "AMD Ryzen 7 4700U",
+                "price_usd": 899.99,
+                "precious_metals_recovered": {
+                  "gold_g": 0.2,
+                  "silver_g": 0.8,
+                  "platinum_g": 0.04,
+                  "palladium_g": 0.02
+                }
+              },
+              {
+                "model": "HP Chromebook",
+                "release_date": "2020-09-15",
+                "display_size_inches": 14.0,
+                "storage_capacity_gb": 64,
+                "ram_gb": 4,
+                "processor": "Intel Celeron N4020",
+                "price_usd": 299.99,
+                "precious_metals_recovered": {
+                  "gold_g": 0.1,
+                  "silver_g": 0.4,
+                  "platinum_g": 0.02,
+                  "palladium_g": 0.01
+                }
+              }
+            ],
+            "dell_laptops": [
+              {
+                "model": "Dell XPS 13",
+                "release_date": "2021-02-25",
+                "display_size_inches": 13.4,
+                "storage_capacity_gb": 512,
+                "ram_gb": 16,
+                "processor": "Intel Core i7-1165G7",
+                "price_usd": 1399.99,
+                "precious_metals_recovered": {
+                  "gold_g": 0.2,
+                  "silver_g": 0.8,
+                  "platinum_g": 0.04,
+                  "palladium_g": 0.02
+                }
+              },
+              {
+                "model": "Dell Inspiron 15",
+                "release_date": "2021-04-12",
+                "display_size_inches": 15.6,
+                "storage_capacity_gb": 256,
+                "ram_gb": 8,
+                "processor": "Intel Core i5-1135G7",
+                "price_usd": 799.99,
+                "precious_metals_recovered": {
+                  "gold_g": 0.15,
+                  "silver_g": 0.6,
+                  "platinum_g": 0.03,
+                  "palladium_g": 0.015
+                }
+              },
+              {
+                "model": "Dell G5 15",
+                "release_date": "2021-08-20",
+                "display_size_inches": 15.6,
+                "storage_capacity_gb": 512,
+                "ram_gb": 16,
+                "processor": "Intel Core i7-11800H",
+                "price_usd": 1299.99,
+                "precious_metals_recovered": {
+                  "gold_g": 0.25,
+                  "silver_g": 0.9,
+                  "platinum_g": 0.05,
+                  "palladium_g": 0.025
+                }
+              },
+              {
+                "model": "Dell Latitude 14",
+                "release_date": "2021-03-05",
+                "display_size_inches": 14.0,
+                "storage_capacity_gb": 512,
+                "ram_gb": 16,
+                "processor": "Intel Core i7-1160G7",
+                "price_usd": 1199.99,
+                "precious_metals_recovered": {
+                  "gold_g": 0.2,
+                  "silver_g": 0.8,
+                  "platinum_g": 0.04,
+                  "palladium_g": 0.02
+                }
+              },
+              {
+                "model": "Dell Vostro 13",
+                "release_date": "2020-10-15",
+                "display_size_inches": 13.3,
+                "storage_capacity_gb": 256,
+                "ram_gb": 8,
+                "processor": "Intel Core i5-10210U",
+                "price_usd": 699.99,
+                "precious_metals_recovered": {
+                  "gold_g": 0.15,
+                  "silver_g": 0.6,
+                  "platinum_g": 0.03,
+                  "palladium_g": 0.015
+                }
+              }
+            ],
+            "asus_laptops": [
+              {
+                "model": "Asus ROG Zephyrus G14",
+                "release_date": "2021-03-30",
+                "display_size_inches": 14.0,
+                "storage_capacity_gb": 512,
+                "ram_gb": 16,
+                "processor": "AMD Ryzen 9 5900HS",
+                "price_usd": 1699.99,
+                "precious_metals_recovered": {
+                  "gold_g": 0.25,
+                  "silver_g": 0.9,
+                  "platinum_g": 0.05,
+                  "palladium_g": 0.025
+                }
+              },
+              {
+                "model": "Asus VivoBook 15",
+                "release_date": "2021-06-25",
+                "display_size_inches": 15.6,
+                "storage_capacity_gb": 256,
+                "ram_gb": 8,
+                "processor": "AMD Ryzen 7 3700U",
+                "price_usd": 799.99,
+                "precious_metals_recovered": {
+                  "gold_g": 0.2,
+                  "silver_g": 0.8,
+                  "platinum_g": 0.04,
+                  "palladium_g": 0.02
+                }
+              },
+              {
+                "model": "Asus ZenBook 14",
+                "release_date": "2021-01-10",
+                "display_size_inches": 14.0,
+                "storage_capacity_gb": 512,
+                "ram_gb": 16,
+                "processor": "Intel Core i7-1165G7",
+                "price_usd": 1299.99,
+                "precious_metals_recovered": {
+                  "gold_g": 0.2,
+                  "silver_g": 0.8,
+                  "platinum_g": 0.04,
+                  "palladium_g": 0.02
+                }
+              },
+              {
+                "model": "Asus TUF Gaming A15",
+                "release_date": "2020-05-20",
+                "display_size_inches": 15.6,
+                "storage_capacity_gb": 512,
+                "ram_gb": 16,
+                "processor": "AMD Ryzen 7 4800H",
+                "price_usd": 1099.99,
+                "precious_metals_recovered": {
+                  "gold_g": 0.25,
+                  "silver_g": 0.9,
+                  "platinum_g": 0.05,
+                  "palladium_g": 0.025
+                }
+              },
+              {
+                "model": "Asus Chromebook C523",
+                "release_date": "2020-08-10",
+                "display_size_inches": 15.6,
+                "storage_capacity_gb": 64,
+                "ram_gb": 4,
+                "processor": "Intel Celeron N3350",
+                "price_usd": 299.99,
+                "precious_metals_recovered": {
+                  "gold_g": 0.1,
+                  "silver_g": 0.4,
+                  "platinum_g": 0.02,
+                  "palladium_g": 0.01
+                }
+              }
+            ]
+          }
+
+        }
+            
+    }
+}
