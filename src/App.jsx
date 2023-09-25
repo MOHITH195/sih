@@ -9,6 +9,7 @@ import {Homepage , SearchMap} from "./Pages" ;
 import State from './context/State';
 import Education from './Pages/education';
 import PricePrediction from './Pages/PricePrediction';
+import Maps from './Pages/Maps';
 // import Procedure from './Components/Prodedure';
 
 const App = () => {
@@ -21,7 +22,16 @@ const App = () => {
             <Route exact path="/" element={<Homepage />} />
             <Route exact path="/search/:address" element={<SearchMap />} />
             <Route exact path="/education" element={<Education />} />
-            <Route exact path="/priceprediction" element={<PricePrediction />} />
+            <Route
+              exact
+              path="/priceprediction"
+              element={<PricePrediction />}
+            />
+            <Route
+              exact
+              path="/maps"
+              element={<Maps />}
+            />
           </Routes>
           <Footer />
         </Router>
